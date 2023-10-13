@@ -1,1 +1,1 @@
-# klasifikasi-diabetes
+# Diabetes Classification using SVM
